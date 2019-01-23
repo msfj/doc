@@ -1631,7 +1631,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o11">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((19123,-2549), (34178,13347))</a:Rect>
+<a:Rect>((19840,-1913), (33461,12711))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1700,7 +1700,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o17">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-34175,-22344), (-19552,-8248))</a:Rect>
+<a:Rect>((-33481,-21783), (-20246,-8809))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1746,7 +1746,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o21">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-16552,-22344), (-1929,-8248))</a:Rect>
+<a:Rect>((-15858,-21783), (-2623,-8809))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1792,7 +1792,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o25">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-15255,-3449), (-200,13346))</a:Rect>
+<a:Rect>((-14538,-2776), (-917,12673))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1838,7 +1838,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o29">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-12229,18147), (4989,55637))</a:Rect>
+<a:Rect>((-11396,19680), (4156,54104))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1999,7 +1999,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o43">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-31580,17247), (-15227,55637))</a:Rect>
+<a:Rect>((-30793,18818), (-16014,54066))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2045,7 +2045,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o47">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((1069,-22344), (15692,-8248))</a:Rect>
+<a:Rect>((1763,-21783), (14998,-8809))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2114,7 +2114,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o53">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-33745,-4349), (-18257,13346))</a:Rect>
+<a:Rect>((-33005,-3638), (-18997,12635))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2137,7 +2137,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o55">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((2798,-3449), (16123,13346))</a:Rect>
+<a:Rect>((3423,-2776), (15498,12673))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2160,7 +2160,7 @@ LABL 0 新宋体,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o57">
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((18692,-20544), (31153,-8248))</a:Rect>
+<a:Rect>((19271,-20058), (30574,-8734))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
