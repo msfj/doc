@@ -8,7 +8,8 @@
 		<Model ID="{3793C9C0-6B1D-4433-8F16-7F485A02E073}" Loaded="No" Name="mcs" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="mcs.pdm"/>
 		<Model ID="{887D171B-113A-4E07-9E31-BEBC26B54B70}" Loaded="No" Name="sas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="pas.pdm"/>
 		<Model ID="{8956DC40-A42C-451B-8E97-2F2DC9F38480}" Loaded="No" Name="pas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="sas.pdm"/>
-		<Model ID="{3376B4A1-34A7-491C-8BE6-B2B224C042B3}" Name="cas" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="cas.pdm"/>
+		<Model ID="{3376B4A1-34A7-491C-8BE6-B2B224C042B3}" Loaded="No" Name="cas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="cas.pdm"/>
+		<Model Expanded="Yes" ID="{3376B4A1-34A7-491C-8BE6-B2B224C042B3}" Name="cas" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="cas.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
