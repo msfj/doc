@@ -1,4 +1,5 @@
-# doc 相关工具文件管理仓库
+# doc 文档、工具管理仓库
+doc仓库地址:https://github.com/msfj/doc.git
 
 # DB_ZL
 增量脚本目录
